@@ -5,8 +5,17 @@ button {
     font-family: inherit;
     cursor: pointer;
 }
+.counter__main-title {
+    margin-top: 50px;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.counter__main-title h1 {
+    font-size: 35px;
+}
 .counter__text {
-    margin-top: 250px;
     margin-bottom: 30px;
     display: flex;
     justify-content: center;
